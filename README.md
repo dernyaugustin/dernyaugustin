@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derny Augustin</h1>
-<h3 align="center">A developer from Montreal</h3>
-
-- 📝 I regularly write articles on [https://medium.com/@dernyaugustin](https://medium.com/@dernyaugustin)
-
-- 💬 Ask me about **tech, frontend, cloud**
+<h3 align="center">An Engineer from NYC</h3>
 
 - 📫 How to reach me **derny22@gmail.com**
 
